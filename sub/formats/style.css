@@ -1,0 +1,36 @@
+
+* {
+    color: blue;
+    margin: auto;
+}
+
+body {
+    background-color: lightgray;
+    font-family: 'Times';
+	position: absolute;
+
+}
+
+header {
+	font-size: 30;
+	font-weight: bold;
+    position: relative;
+    top: 0;
+    padding-left: 50%;
+}
+
+main {
+    color: black;
+
+
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    padding-left: 40%;
+    font-weight: 25;
+
+}
+
+
