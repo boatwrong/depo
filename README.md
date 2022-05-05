@@ -3,6 +3,9 @@
 #### tool to practice web development
 
 
+## TODO
+- weather widget
+	- consume a weather api?
 
 
 
