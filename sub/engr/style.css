@@ -1,17 +1,9 @@
-header
-{
-}
-
 footer
 {
     position: fixed;
     bottom: 0;
     width: 100%;
     text-align: center;
-}
-
-main
-{
 }
 
 .container 
@@ -28,12 +20,18 @@ main
 	padding: 5px 5px;
 }
 
+.trigger
+{
+	width: 50%;
+	height: auto;
+	background-color: blue;
+}
 .thumbnail
 {
-	display: block;
 	border-radius: 8px;
 	padding: 5px;
-	width: 40%;
+	width: 100%;
+	height: auto;
 }
 
 .thumbnail:hover
@@ -54,21 +52,22 @@ main
 	position: center;
 	left: 0;
 	top: 0;
-	width: 100%;
+	width: auto;
 	height: 100%;
 	background-color: rgb(0,0,0,0.5);
 	opacity: 0;
 	transform: scale(1.1);
 }
 
+
 .modal-content
 {
 	position: absolute;
-	background-color: lightgray;
+	background-size: cover;
 	border-radius: 8px;
 	margin: auto;
 	padding: 20px;
-	width: 80%;
+	width: auto;
 }
 
 
