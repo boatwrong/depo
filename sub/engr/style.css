@@ -22,15 +22,16 @@ footer
 
 .trigger
 {
-	width: 50%;
+	max-width: 50%;
 	height: auto;
-	background-color: blue;
 }
 .thumbnail
 {
-	border-radius: 8px;
-	padding: 5px;
-	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 5px;
+	border-radius: 5px;
+	max-width: 100%;
 	height: auto;
 }
 
