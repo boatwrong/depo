@@ -6,13 +6,6 @@ footer
     text-align: center;
 }
 
-.container 
-{
-	display: grid;
-	grid-template-columns: auto auto;
-	gap: 10px;
-}
-
 .goHome
 {
 	background-color: lightgray;
@@ -40,13 +33,6 @@ footer
 	box-shadow: 0 0 2px 1px rgba(0,140,186,0.5);
 }
 
-.container 
-{
-	display: grid;
-	grid-template-columns: auto auto;
-	gap: 10px;
-}
-
 .modal
 {
 	visibility: hidden;
@@ -60,7 +46,6 @@ footer
 	transform: scale(1.1);
 }
 
-
 .modal-content
 {
 	position: absolute;
@@ -70,8 +55,6 @@ footer
 	padding: 20px;
 	width: auto;
 }
-
-
 
 .show-modal
 {
@@ -92,4 +75,19 @@ footer
 .close-btn:hover
 {
 	background-color: blue;
+}
+.iframe_conatiner
+{
+	overflow: hidden;
+	padding-top: 56.25%;
+	position: relative;
+}
+
+.iframe_conatiner iframe
+{
+	border: 0;
+	height: 100%;
+	width: 100%;
+	left: 0;
+	top: 0;
 }
