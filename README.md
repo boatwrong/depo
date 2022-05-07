@@ -6,9 +6,9 @@
 ## TODO
 - weather widget
 	- consume a weather api?
-* center modal on screen and stack figurers
+- ~~center modal on screen and stack figurers~~
 	- relative size the figs too
-* simplify some calculator functions to a drop down menu
+- simplify some calculator functions to a drop down menu
 
 
 
