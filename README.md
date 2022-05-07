@@ -9,6 +9,7 @@
 - ~~center modal on screen and stack figurers~~
 	- relative size the figs too
 - simplify some calculator functions to a drop down menu
+	- work in progress
 
 
 
