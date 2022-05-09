@@ -2,8 +2,6 @@
 
 #### tool to practice web development
 
-# LOGGED IN FROM WINDOWS
-
 ## TODO
 - weather widget
 	- consume a weather api?
